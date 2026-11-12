@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Delete session",
+    "description": "Permanently delete a conversation and its local session record from the session row menu."
+  }
+}
