@@ -1,4 +1,4 @@
-# dsh-session-delete
+# dsh-session-delete · 会话删除
 
 中文 | [English](README.en.md)
 
